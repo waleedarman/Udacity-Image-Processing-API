@@ -44,6 +44,4 @@ npm test
 #### Generate Placeholder
 `GET /api/images/test/placeholder?width=200&height=200&text=Hello`
 
----
-## 📄 License
-Licensed under [ISC](LICENSE).
+
